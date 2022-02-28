@@ -1,0 +1,19 @@
+segment_sources:
+  P9532A848:
+    type: origin_type
+    relation: translation
+    language: en
+  P066E9E48:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  8d388b4e104d4b2ea11856d7701eb866:
+    P9532A848: aa3aa7bcd7734f8a8dd4f9c9609a36ab
+    P066E9E48: fdd9a8da4ccd4dfd96637a31fd7688ff
+  49de38b65b034cbd8b4ab72d50a45499:
+    P9532A848: 84938b765010430d8dee2d44a5092917
+    P066E9E48: d7d8215ff48f49cc88d9a2cbf513868c
+  bb61752db90c44c981466fd832804be6:
+    P9532A848: 2a9cfa659e5c454e984c958ee9cae0c0
+    P066E9E48: 2a02dc2332004e8a874982fe012ebbc2
